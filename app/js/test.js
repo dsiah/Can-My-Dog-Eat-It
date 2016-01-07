@@ -11,6 +11,10 @@ var db = [{
   id: 2,
   food: 'Dog Food',
   info: 'duh...'
+}, {
+  id: 3,
+  food: 'Coffee',
+  info: 'No, but Starbucks probably has dog biscuits for sale.'
 }];
 
 var options = {
