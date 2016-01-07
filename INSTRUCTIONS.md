@@ -31,4 +31,3 @@ Remember to refresh files from the github repository:
 3. ``` git add . ```
 4. ``` git commit -m "message goes here" ```
 5. ``` git push ```
-
