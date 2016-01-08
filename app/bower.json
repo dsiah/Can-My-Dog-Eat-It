@@ -1,0 +1,15 @@
+{
+  "name": "canmydogeat.it",
+  "homepage": "https://github.com/dsiah/Can-My-Dog-Eat-It",
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "authors": [
+    "David Siah & Kuba Kerner"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "fuse.js": "fuse#~1.3.1"
+  }
+}
